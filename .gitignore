@@ -1,0 +1,11 @@
+# Files to ignore from the repository
+
+# Ignore log files
+*.log
+
+# Ignore vi editor swap files
+*.swp
+*.swo
+
+# Ignore Microsoft Office temporary files
+~$*
